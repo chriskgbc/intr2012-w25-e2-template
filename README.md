@@ -2,7 +2,7 @@
 
 # Steps
 
-1. Install `Live Server` extension to create a development server
+1. Install `Live Server` (or equivalent) extension to create a development server
 2. Activate `GitHub Pages` with `main` as the source branch
 3. Start coding!
 
