@@ -8,5 +8,5 @@
 
 # Resources
 
-- Data source: https://docs.google.com/spreadsheets/d/1I1v8OEF-vxDv5gxAL07M7tR3hqO2Zan6SxKH28dSQC0/edit?usp=sharing
-- Visualization library: https://www.chartjs.org/
+- Data source: https://www.dropbox.com/scl/fi/k1jimgw1bexwtu7cvgue1/data.json?rlkey=p7db42v63jmr37fdgra2m28lk&dl=0
+- Visualization library: https://p5js.org/
